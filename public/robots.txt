@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://climate-tech.noahstjohn.com/sitemap-index.xml
